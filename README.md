@@ -33,8 +33,8 @@ End Program with 'q'. Allow the program to be terminated by pressing the 'q' key
 
 
 ## Program:
-### Developed By: KAILASH PRABHU S
-### Register No: 212224240068
+### Developed By: S.T.DHANAAAKHAASH
+### Register No: 212224240032
 
 
 ## i) Write the frame as JPG file
